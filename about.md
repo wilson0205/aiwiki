@@ -5,4 +5,4 @@ permalink: /about/
 tags: about
 ---
 
-Copyright 2017 AI.wiki℠. All rights reserved.
+Copyright 2016 AI.wiki℠. All rights reserved.
