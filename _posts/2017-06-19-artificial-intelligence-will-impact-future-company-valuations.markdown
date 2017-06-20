@@ -5,8 +5,6 @@ date: 2017-06-19 17:51:00 Z
 
 Kinetic Consulting Services, the leading boutique consulting company for business strategy and transformation released a new guide for CEOs and Board Directors on the importance of artificial intelligence in their business.
 
- Kinetic Consulting Services Logo
-Kinetic Consulting Services Logo
 The guide is designed to educate and raise awareness of the important role artificial intelligence is likely to have on corporate governance. The report makes the correlation between the primary fiduciary duty of CEOs and Board Directors, and the value offerings of A.I. software. The key obligation of CEOs and Directors is to ensure shareholder value is retained and the stock price increases in line with forecast results. The report argues that these obligations will not be met in the future, if the organisation does not have an A.I. strategy or cannot demonstrate the use of the software in both the operational area of the business and in forecast reporting.
 
 "Unlike other software, A.I. specifically addresses the key areas of risk in the organisation that determine company valuations and stock price. The reduction of risk must be a key concern for CEOs and Directors, to enable them to meet their fiduciary obligations. Companies able to demonstrate the removal of human bias in their forecasts, and the application of A.I. in order to reduce wastage in their operations, will be preferred for investment over those without any use of A.I.," said Joe Tawfik, CEO of Kinetic Consulting Services.
